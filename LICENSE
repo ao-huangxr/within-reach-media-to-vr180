@@ -1,0 +1,21 @@
+Within Reach Flat Media VR180 Binary Distribution Notice
+
+Copyright (c) 2026 Lingjing VR Studio. All rights reserved.
+
+The Within Reach Flat Media VR180 application, excluding separately identified
+third-party components, is proprietary software. Permission is granted to
+download, install, and use the unmodified application binary for evaluation and
+production work. Redistribution, reverse engineering except where applicable
+law permits it, modification, sublicensing, and sale are not granted.
+
+Third-party components remain governed by their respective licenses. In
+particular, the bundled FFmpeg executable and libraries are distributed under
+GNU GPL version 2 or later because that separate runtime includes x265. The
+corresponding unmodified source archives and license notices are distributed
+with the GitHub Release. See THIRD_PARTY_NOTICES.md for details.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE SOFTWARE OR ITS USE.

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Within Reach Flat Media VR180</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 01 Aug 2026 18:05:11 +0800</pubDate>
+            <link>https://github.com/ao-huangxr/within-reach-media-to-vr180</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Within Reach Media to VR180 0.1.0 Beta 1
+
+The first public macOS Apple Silicon beta converts flat images and video into
+fixed-position VR180 media.
+
+## Included
+
+- Project creation and reopening.
+- Flat image and video import.
+- Deterministic VR180 preview.
+- 6K standard and 8K recommended output.
+- 50, 59.94, and 60 fps timelines.
+- H.265 export with Fast mode and bundled libx265 fallback.
+- Transparent MOV export for compositing workflows.
+- Signed Sparkle 2 update checks.
+- Bundled FFmpeg 8.1.2 runtime; Homebrew and system Python are not required.
+
+## Beta limitations
+
+- Apple Silicon and macOS 26 or later only.
+- No Windows package.
+- Projects are not guaranteed to remain backward-compatible with later betas.
+- Final media should be reviewed in the target headset and finishing workflow.
+- 8K production output requires substantially more time and storage than 6K.
+
+## Integrity
+
+Verify downloads against `SHA256SUMS.txt`. The DMG and app are signed with
+Developer ID and notarized by Apple. Exact FFmpeg and x265 source archives are
+provided with this release.
+]]></description>
+            <enclosure url="https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/v0.1.0-beta.1/Within-Reach-Flat-Media-VR180-0.1.0-beta.1-macOS-arm64.zip" length="50995343" type="application/octet-stream" sparkle:edSignature="sjrRzsqndMUHFXDcMgAyIgQAWKXOBWAfblGzKTxKPw9fe6xskhPexd+oBZHYV9DA/hY1bcLhoQT965rzQh5TAg=="/>
+        </item>
+    </channel>
+</rss>
