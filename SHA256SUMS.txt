@@ -1,4 +1,5 @@
 ebd377a184b6704dcbd641ac3a089b3f32edd2437b5c0c1eadf296749d2896dd  Within-Reach-Flat-Media-VR180-0.1.0-beta.1-macOS-arm64.dmg
+f8019cb5af9fd0bc586cf56d9cab19871522e97d072252ec7b39fd73b6001327  Within-Reach-Flat-Media-VR180-0.1.0-beta.2-build.4-macOS-arm64.dmg
 89c4fb4c269d644b365bc15ae08cdf4d91e8bf308284f1e8675be094f317e598  Within-Reach-Flat-Media-VR180-0.1.0-beta.1-macOS-arm64.zip
 464beb5e7bf0c311e68b45ae2f04e9cc2af88851abb4082231742a74d97b524c  ffmpeg-8.1.2-within-reach-source.tar.xz
 40b1ea0453e0309f0eba934e0ddf533f8f6295966679e8894e8f1c1c8d5e1210  x265-4.2-within-reach-source.tar.gz

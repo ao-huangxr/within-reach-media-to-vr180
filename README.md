@@ -3,9 +3,9 @@
 Within Reach Media to VR180 converts flat images and video into fixed-position
 VR180 media on macOS.
 
-## Beta 1
+## Beta 2 for macOS (Build 4)
 
-This first public beta is for Apple Silicon Macs running macOS 26 or later.
+This public beta is for Apple Silicon Macs running macOS 26 or later.
 It supports:
 
 - still-image and flat-video sources;
@@ -19,7 +19,7 @@ It supports:
 ## Install
 
 1. Download the DMG from the
-   [latest prerelease](https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/tag/v0.1.0-beta.1).
+   [latest prerelease](https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/tag/media-to-vr180-macos-v0.1.0-beta.2-build.4).
 2. Open the DMG and copy **Within Reach Flat Media VR180** to Applications.
 3. Launch the app from Applications.
 
@@ -38,6 +38,9 @@ configuration are not required.
   longer and requires more storage than 6K.
 - Hardware H.265 availability and speed depend on the Mac model. The bundled
   libx265 fallback is slower.
+- Transparent MOV uses QuickTime Animation/QTRLE and is recommended for short
+  clips of about 5–10 seconds. Long photographic transparent MOV files may be
+  extremely large. HEVC with Alpha is not included in this release.
 - Always keep original source media and independently review important output
   in the target headset and finishing workflow.
 

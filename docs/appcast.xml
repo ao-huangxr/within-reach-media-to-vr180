@@ -3,6 +3,48 @@
     <channel>
         <title>Within Reach Flat Media VR180</title>
         <item>
+            <title>0.1.0 Beta 2</title>
+            <pubDate>Wed, 05 Aug 2026 01:10:31 +0800</pubDate>
+            <link>https://github.com/ao-huangxr/within-reach-media-to-vr180</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Within Reach Flat Media VR180 0.1.0 Beta 2
+
+## 中文
+
+- 修复大视频导入时界面长时间无响应；
+- Production Planning 已移至后台；
+- Mono 和 SBS 视频使用持续 ROI Renderer；
+- SBS H.265 不再生成逐帧 PNG；
+- 视频透明 MOV 使用持续流式 QTRLE，动态视频启用 `g=300` 时间压缩；
+- 改进进度、取消和 FFmpeg/FFprobe 子进程清理；
+- 降低动态视频导出的临时磁盘和内存压力；
+- 保持精确 50、60000/1001（59.94）和 60 fps 合同。
+
+透明 MOV 为 QuickTime Animation/QTRLE，建议用于约 5–10 秒短透明素材。
+长时真实摄影透明 MOV 仍可能非常大。HEVC with Alpha 不包含在本版本。
+
+## English
+
+- Fixes prolonged UI unresponsiveness while importing large video files;
+- Moves Production Planning to a background worker;
+- Uses continuous ROI rendering for Mono and SBS video;
+- Removes per-frame PNG generation from SBS H.265 export;
+- Streams transparent video to QTRLE MOV with `g=300` temporal compression;
+- Improves progress, cancellation, and FFmpeg/FFprobe cleanup;
+- Reduces temporary-disk and memory pressure for dynamic video export;
+- Preserves exact 50, 60000/1001 (59.94), and 60 fps contracts.
+
+Transparent MOV uses QuickTime Animation/QTRLE and is recommended for clips
+of about 5–10 seconds. Long photographic transparent MOV files may still be
+extremely large. HEVC with Alpha is not included in this release.
+]]></description>
+            <enclosure url="https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/media-to-vr180-macos-v0.1.0-beta.2-build.4/Within-Reach-Flat-Media-VR180-0.1.0-beta.2-build.4-macOS-arm64.dmg" length="57912882" type="application/octet-stream" sparkle:edSignature="E30L2PjLefGuhAWbm2wxwLcULxvU14dl+NdBzNWUVX0fPzSZZzWXiQBuzitnaiio8L9UMGjB/HwxkbVxNPVaAg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 01 Aug 2026 20:22:46 +0800</pubDate>
             <link>https://github.com/ao-huangxr/within-reach-media-to-vr180</link>
