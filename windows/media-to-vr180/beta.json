@@ -1,0 +1,23 @@
+{
+  "schema": "within_reach_windows_update_manifest_v1",
+  "product_id": "within-reach-media-to-vr180",
+  "channel": "beta",
+  "version": "0.1.0",
+  "display_version": "0.1.0 Beta 2",
+  "build_number": 3,
+  "published_at": "2026-08-04T12:03:10Z",
+  "minimum_windows_version": "10.0.22000",
+  "architecture": "x86_64",
+  "mandatory": false,
+  "installer": {
+    "filename": "Within-Reach-Media-to-VR180-0.1.0-beta2-build3-windows-x64-setup.exe",
+    "url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/media-to-vr180-windows-v0.1.0-beta.2-build.3/Within-Reach-Media-to-VR180-0.1.0-beta2-build3-windows-x64-setup.exe",
+    "size_bytes": 55106600,
+    "sha256": "267f156c5e81a2bd2d8696fbb87dd1fa7e6146fccfc94f4ed7e52100302cbfb5",
+    "authenticode_status": "unsigned",
+    "publisher": null,
+    "certificate_sha256": null
+  },
+  "release_notes_url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/tag/media-to-vr180-windows-v0.1.0-beta.2-build.3",
+  "release_tag": "media-to-vr180-windows-v0.1.0-beta.2-build.3"
+}
