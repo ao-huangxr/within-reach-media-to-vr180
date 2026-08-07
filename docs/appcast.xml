@@ -3,6 +3,42 @@
     <channel>
         <title>Within Reach Flat Media VR180</title>
         <item>
+            <title>0.1.0 Beta 3</title>
+            <pubDate>Fri, 07 Aug 2026 11:31:28 +0800</pubDate>
+            <link>https://github.com/ao-huangxr/within-reach-media-to-vr180</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Within Reach Flat Media VR180 0.1.0 Beta 3
+
+## 中文
+
+主要修复：
+
+- 修复macOS版本无法切换英文界面的问题；
+- 中文和英文现在可以即时切换；
+- 语言选择会在重启后保留；
+- 补齐菜单、工作台、进度、对话框和错误信息的英文翻译。
+
+本版本不改变VR180 Geometry、编码器或输出质量。
+
+## English
+
+Key fixes:
+
+- Fixed an issue that prevented switching the macOS app to English.
+- Chinese and English can now be switched instantly.
+- The selected language is preserved after restart.
+- Added English localization for menus, the workbench, progress messages,
+  dialogs, and errors.
+
+This update does not change VR180 geometry, codecs, or output quality.
+]]></description>
+            <enclosure url="https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/media-to-vr180-macos-v0.1.0-beta.3-build.5/Within-Reach-Flat-Media-VR180-0.1.0-beta.3-build.5-macOS-arm64.dmg" length="58467652" type="application/octet-stream" sparkle:edSignature="0YmWJnlJPQljCgV4xP6KUp3I/cz8/7Z4ey2sB56WXz//MdXBonho4s1EkYiFP40dO2kpSoOClO85NXzNydrqBw=="/>
+        </item>
+        <item>
             <title>0.1.0 Beta 2</title>
             <pubDate>Wed, 05 Aug 2026 01:10:31 +0800</pubDate>
             <link>https://github.com/ao-huangxr/within-reach-media-to-vr180</link>
