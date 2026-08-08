@@ -4,20 +4,20 @@
   "channel": "beta",
   "version": "0.1.0",
   "display_version": "0.1.0 Beta 2",
-  "build_number": 5,
-  "published_at": "2026-08-05T10:50:11Z",
+  "build_number": 6,
+  "published_at": "2026-08-08T06:35:01Z",
   "minimum_windows_version": "10.0.22000",
   "architecture": "x86_64",
   "mandatory": false,
   "installer": {
-    "filename": "Within-Reach-Media-to-VR180-0.1.0-beta2-build5-windows-x64-setup.exe",
-    "url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/media-to-vr180-windows-v0.1.0-beta.2-build.5/Within-Reach-Media-to-VR180-0.1.0-beta2-build5-windows-x64-setup.exe",
-    "size_bytes": 55106952,
-    "sha256": "32efe7b31bd4fcbfee7e44481a5985192feea6f53cacd274e0d9d0c48b6cc328",
+    "filename": "Within-Reach-Media-to-VR180-0.1.0-beta2-build6-windows-x64-setup.exe",
+    "url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/download/media-to-vr180-windows-v0.1.0-beta.2-build.6/Within-Reach-Media-to-VR180-0.1.0-beta2-build6-windows-x64-setup.exe",
+    "size_bytes": 55140088,
+    "sha256": "d1f79c2006cffc668014630e886c31d8fccbbc95e01f8f8ae389f66540e92f8e",
     "authenticode_status": "unsigned",
     "publisher": null,
     "certificate_sha256": null
   },
-  "release_notes_url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/tag/media-to-vr180-windows-v0.1.0-beta.2-build.5",
-  "release_tag": "media-to-vr180-windows-v0.1.0-beta.2-build.5"
+  "release_notes_url": "https://github.com/ao-huangxr/within-reach-media-to-vr180/releases/tag/media-to-vr180-windows-v0.1.0-beta.2-build.6",
+  "release_tag": "media-to-vr180-windows-v0.1.0-beta.2-build.6"
 }
